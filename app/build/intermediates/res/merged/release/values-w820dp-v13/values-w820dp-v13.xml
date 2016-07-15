@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="codigo">20sp</dimen>
+    <dimen name="mensaje">18sp</dimen>
+    <dimen name="pass">20sp</dimen>
+    <dimen name="usuario">10sp</dimen>
+</resources>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\boton_ingresar.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\boton_ingresar.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\verificacion_codigo.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\verificacion_codigo.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\boton_registrar.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\boton_registrar.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\boton_entendido.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\boton_entendido.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\indicador_1.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\indicador_1.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\pop_up_error_01.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\pop_up_error_01.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\terminos.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\terminos.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\indicador_2.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\indicador_2.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-hdpi-v4\\continuar_terminos.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-hdpi\\continuar_terminos.png"
+    }
+]

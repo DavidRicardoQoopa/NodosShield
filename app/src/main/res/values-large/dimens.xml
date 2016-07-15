@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_bottom_arrow">20dp</dimen>
+    <dimen name="next_text_size">35sp</dimen>
+    <dimen name="margin_right_next_text">9dp</dimen>
+    <dimen name="passcode_height">200dp</dimen>
+</resources>

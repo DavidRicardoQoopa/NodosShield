@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\values-normal-hdpi-v4\\values-normal-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\values-normal-hdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 47,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\values-normal-hdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 47,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 58,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\values-normal-hdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 58,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 45,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\values-normal-hdpi\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            }
+        ]
+    }
+]

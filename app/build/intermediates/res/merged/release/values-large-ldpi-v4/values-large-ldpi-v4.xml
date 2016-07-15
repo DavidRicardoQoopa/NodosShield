@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="codigo">10sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_registro">30dp</dimen>
+    <dimen name="mensaje">18sp</dimen>
+    <dimen name="pass">10sp</dimen>
+    <dimen name="size_explicacion">30dp</dimen>
+    <dimen name="size_oprime_boton_registrar">15dp</dimen>
+    <dimen name="size_registrar">30dp</dimen>
+    <dimen name="usuario">20sp</dimen>
+</resources>

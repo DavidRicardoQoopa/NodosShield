@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">LupapSeguridad</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_teclado">teclado</string>
+    <string name="title_activity_shut_down">ShutDown</string>
+    <string name="title_activity_terminos">Terminos</string>
+    <string name="title_activity_registro">Registro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_up_title">REGISTRO</string>
+    <string name="sign_up_title_0">Si tienes alguna cuenta registrada, </string>
+    <string name="sign_up_title_2">  ingresa aquí.</string>
+    <string name="sign_up_name">Nombres</string>
+    <string name="sign_up_name_hint">Nombre Completo</string>
+    <string name="sign_up_last_name">Apellidos</string>
+    <string name="sign_up_last_name_hint">Escribe aquí tus apellidos</string>
+    <string name="sign_up_email">Correo electrónico</string>
+    <string name="sign_up_email_hint">Ingresa tu correo electrónico</string>
+    <string name="sign_up_email_confirmation">Confirmar correo electrónico</string>
+    <string name="sign_up_email_confirmation_hint">Confirma tu correo electrónico</string>
+    <string name="sign_up_password">Contraseña</string>
+    <string name="sign_up_password_hint">Ingresa tu contraseña</string>
+    <string name="sign_up_password_confirmation">Confirmar contraseña</string>
+    <string name="sign_up_password_confirmation_hint">Confirma tu contraseña</string>
+    <string name="sign_up_phone_one">Teléfono 1</string>
+    <string name="sign_up_phone_one_hint">Ingresa teléfono 1</string>
+    <string name="sign_up_phone_two">Teléfono 2</string>
+    <string name="sign_up_phone_two_hint">Ingresa teléfono 2</string>
+
+    <string name="login_title">INICIAR SESIÓN</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_email_hint">Ingresa tu correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_password_hint">Ingresa tu contraseña</string>
+    <string name="login_password_retrieve">¿Olvidaste la contraseña?</string>
+    <string name="next">SIGUIENTE</string>
+
+    <string name="terminos"><u>Términos y condiciones</u></string>
+    <string name="topcional">Opcional, número de teléfono.</string>
+    <string name="acepto">Acepto los</string>
+    <string name="explicacion1">Nodos ha sido instalada satisfactoriamente, a continuación, te llegará un correo con los datos para hacer el control sobre tu equipo desde</string>
+    <string name="explicacion2"><u>www.nodos.com.co</u></string>
+    <string name="explicacion3">con el usuario y contraseña que registraste en el formulario anterior, desde este momento por seguridad el icono de nodos permanecerá oculto y de inmediato tu dispositivo estará protegido.\nNo olvides calificar nuestra app en el Play Store.\nTodos los derechos reservados</string>
+    <string name="explicacion4"><u>www.qoopa.co</u></string>
+    <string name="error_name">Ingrese al menos un nombre y un apellido por favor</string>
+    <string name="error_empty_field">Uno o más campos se encuentran vacíos</string>
+    <string name="error_password_match">Las contraseñas no coinciden, verifícalas por favor</string>
+    <string name="error_mail_match">Los correos no coinciden, verifícalos por favor</string>
+    <string name="error_mail_format">Verifica el correo ingresado</string>
+    <string name="error_terms_and_conditions">Debes aceptar los términos y condiciones</string>
+    <string name="error_email_password">Usuario y Contraseña invalidos, intente nuevamente</string>
+    <string name="error_internet_connection">Compruebe la conexión a internet</string>
+    <string name="lock">Ingresa el código</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+
+<!-- TODO: Remove or change this placeholder text
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+-->
+</resources>

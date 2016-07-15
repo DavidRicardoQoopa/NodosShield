@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="codigo">10sp</dimen>
+    <dimen name="res40d">10dp</dimen>
+    <dimen name="margin_registro">0dp</dimen>
+</resources>

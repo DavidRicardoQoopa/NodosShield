@@ -1,0 +1,676 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:2:1-161:12
+	package
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+uses-permission#android.location.GPS
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:5:22-57
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CAMERA
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.INTERNET
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_SMS
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.STORAGE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:22:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.ACCESS_GPS
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:27:5-69
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:27:22-66
+uses-permission#android.permission.ACCESS_LOCATION
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:28:22-71
+meta-data#com.google.android.gms.version
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:35:5-37:65
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:37:9-62
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:36:9-54
+uses-feature#android.hardware.camera
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:39:5-41:35
+	android:required
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:41:9-32
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:40:9-47
+application
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:48:5-159:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:51:9-30
+	android:supportsRtl
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:53:9-35
+	android:allowBackup
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:49:9-35
+	android:icon
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:50:9-43
+	android:persistent
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:52:9-34
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:54:9-40
+receiver#com.qoopa.nodosshield.BootStart
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:55:9-59:20
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:55:19-44
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:56:13-58:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:57:17-79
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:57:25-76
+receiver#com.qoopa.nodosshield.RestartServiceReceiver
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:60:19-57
+intent-filter#RestartService
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:61:13-63:29
+action#RestartService
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:62:17-57
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:62:25-54
+service#com.qoopa.nodosshield.LockService
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:66:9-74:19
+	android:enabled
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:68:13-35
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:67:13-40
+intent-filter#com.qoopa.nodosshield
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:71:13-73:29
+action#com.qoopa.nodosshield
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:72:17-64
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:72:25-61
+service#com.qoopa.nodosshield.IDService
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:75:9-79:19
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:75:18-43
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:76:13-78:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:77:17-80
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:77:25-77
+service#com.qoopa.nodosshield.MessageService
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:83:9-87:19
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:83:18-48
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:84:13-86:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:85:17-78
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:85:25-75
+activity#com.qoopa.nodosshield.LoginActivity
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:89:9-95:58
+	android:screenOrientation
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:92:13-34
+	android:exported
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:91:13-36
+	android:windowSoftInputMode
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:95:13-55
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:94:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:90:13-42
+activity#com.qoopa.nodosshield.MessageActivity
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:96:9-101:59
+	android:screenOrientation
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:99:13-49
+	android:exported
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:98:13-36
+	android:showOnLockScreen
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:100:13-44
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:101:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:97:13-44
+activity#com.qoopa.nodosshield.LockActivity
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:102:9-108:58
+	android:screenOrientation
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:105:13-59
+	android:exported
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:104:13-36
+	android:windowSoftInputMode
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:108:13-55
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:107:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:103:13-41
+activity#com.qoopa.nodosshield.AlarmService
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:109:9-113:59
+	android:screenOrientation
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:111:13-42
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:113:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:110:13-41
+activity#com.qoopa.nodosshield.ShutDown
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:114:9-118:59
+	android:screenOrientation
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:116:13-61
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:118:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:115:13-37
+activity#com.qoopa.nodosshield.Terminos
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:119:9-123:59
+	android:screenOrientation
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:121:13-60
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:123:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:120:13-37
+activity#com.qoopa.nodosshield.Registro
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:124:9-135:20
+	android:screenOrientation
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:126:13-60
+	android:windowSoftInputMode
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:129:13-55
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:128:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:125:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:130:13-134:29
+action#android.intent.action.MAIN
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:131:17-69
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:131:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:133:17-77
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:133:27-74
+intent
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:137:9-71
+	android:action
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:137:17-68
+receiver#com.qoopa.nodosshield.NotificationEventReceiver
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:139:9-142:39
+	android:enabled
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:141:13-35
+	android:exported
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:142:13-36
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:140:13-54
+service#com.qoopa.nodosshield.NotificationIntentService
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:144:9-146:40
+	android:exported
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:146:13-37
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:145:13-54
+activity#com.qoopa.nodosshield.GPSActivation
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:148:9-151:20
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:150:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:149:13-42
+activity#com.qoopa.nodosshield.PhotoActivity
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:152:9-156:20
+	android:label
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:154:13-57
+	android:theme
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:155:13-56
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:153:13-42
+activity#com.qoopa.nodosshield.RegisterCallActivity
+ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:157:9-158:20
+	android:name
+		ADDED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml:157:19-55
+uses-sdk
+INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bibliotecas\Documentos\Shield 19-04-2015\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\AndroidManifest.xml:25:13-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:32:9-41:20
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:45:9-47:40
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:51:9-57:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:52:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:19-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:24:8-31
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:37:11-82
+permission#com.qoopa.nodosshield.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
+uses-permission#com.qoopa.nodosshield.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:9.0.2] E:\Bibliotecas\Documentos\Shield 19-04-2015\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79

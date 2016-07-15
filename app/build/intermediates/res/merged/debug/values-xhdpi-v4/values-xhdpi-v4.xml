@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="codigo">20sp</dimen>
+    <dimen name="margin_registro">50dp</dimen>
+    <dimen name="mensaje">18sp</dimen>
+    <dimen name="pass">10sp</dimen>
+    <dimen name="res40d">40dp</dimen>
+    <dimen name="usuario">10sp</dimen>
+</resources>

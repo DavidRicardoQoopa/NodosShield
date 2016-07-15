@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">103774799420-keqg7taho5s8j33jhodkecqj3ss01j6a.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://nodos-push.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">103774799420</string>
+    <string name="google_api_key" translatable="false">AIzaSyCAxW6oPn-prkE84vAbyzq46XpPfqCYbP8</string>
+    <string name="google_app_id" translatable="false">1:103774799420:android:cfe650540249b9ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCAxW6oPn-prkE84vAbyzq46XpPfqCYbP8</string>
+    <string name="google_storage_bucket" translatable="false">nodos-push.appspot.com</string>
+</resources>

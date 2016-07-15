@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-xxhdpi-v4\\indicador_1.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-xxhdpi\\indicador_1.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-xxhdpi-v4\\indicador_2.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-xxhdpi\\indicador_2.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-xxhdpi-v4\\continuar_terminos.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-xxhdpi\\continuar_terminos.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-xxhdpi-v4\\terminos.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-xxhdpi\\terminos.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-xxhdpi-v4\\boton_ingresar.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-xxhdpi\\boton_ingresar.png"
+    },
+    {
+        "merged": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\build\\intermediates\\res\\merged\\debug\\drawable-en-xxhdpi-v4\\boton_registrar.png",
+        "source": "E:\\Bibliotecas\\Documentos\\Shield 19-04-2015\\app\\src\\main\\res\\drawable-en-xxhdpi\\boton_registrar.png"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_registro">30dp</dimen>
+    <dimen name="size_explicacion">20dp</dimen>
+    <dimen name="size_oprime_boton_registrar">10dp</dimen>
+    <dimen name="size_registrar">20dp</dimen>
+</resources>

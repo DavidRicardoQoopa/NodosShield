@@ -1,0 +1,17 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="codigo">20sp</dimen>
+    <dimen name="mensaje">18sp</dimen>
+    <dimen name="usuario">10sp</dimen>
+    <dimen name="pass">10sp</dimen>
+
+    <!--Texto inicio-->
+
+    <dimen name="res40d">40dp</dimen>
+
+    <dimen name="margin_registro">50dp</dimen>
+
+</resources>
